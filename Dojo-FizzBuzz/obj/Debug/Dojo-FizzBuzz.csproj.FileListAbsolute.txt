@@ -1,0 +1,9 @@
+D:\Projetos-Testes-NET\Dojos\fizzbuzz\Dojo-FizzBuzz\Dojo-FizzBuzz\bin\Debug\Dojo-FizzBuzz.exe.config
+D:\Projetos-Testes-NET\Dojos\fizzbuzz\Dojo-FizzBuzz\Dojo-FizzBuzz\bin\Debug\Dojo-FizzBuzz.exe
+D:\Projetos-Testes-NET\Dojos\fizzbuzz\Dojo-FizzBuzz\Dojo-FizzBuzz\bin\Debug\Dojo-FizzBuzz.pdb
+D:\Projetos-Testes-NET\Dojos\fizzbuzz\Dojo-FizzBuzz\Dojo-FizzBuzz\obj\Debug\Dojo-FizzBuzz.csprojResolveAssemblyReference.cache
+D:\Projetos-Testes-NET\Dojos\fizzbuzz\Dojo-FizzBuzz\Dojo-FizzBuzz\obj\Debug\Dojo-FizzBuzz.exe
+D:\Projetos-Testes-NET\Dojos\fizzbuzz\Dojo-FizzBuzz\Dojo-FizzBuzz\obj\Debug\Dojo-FizzBuzz.pdb
+D:\Projetos-Testes-NET\Dojos\Dojo-FizzBuzz\Dojo-FizzBuzz\bin\Debug\Dojo-FizzBuzz.exe.config
+D:\Projetos-Testes-NET\Dojos\Dojo-FizzBuzz\Dojo-FizzBuzz\obj\Debug\Dojo-FizzBuzz.exe
+D:\Projetos-Testes-NET\Dojos\Dojo-FizzBuzz\Dojo-FizzBuzz\obj\Debug\Dojo-FizzBuzz.pdb
