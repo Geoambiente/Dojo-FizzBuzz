@@ -1,8 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using FizzBuzz;
 using System.Collections.Generic;
-using System.Collections.Generic;
-using Dojo_FizzBuzz;
 
 namespace FizzBuzzTest
 {
@@ -19,17 +18,16 @@ namespace FizzBuzzTest
         [TestMethod]
         public void deveRetornarListaDeUmACem()
         {
-            List<int> UmACem = Program.escrever();
-            for (int i = 0; i < 100; i++)
-            {
-                Assert.IsTrue(i + 1 == UmACem[i]);
-            }
+            List<int> UmACem = Program.escrever(); 
+            for(int i=0;i<100;i++) {
+                Assert.IsTrue(i+1 == UmACem[i]);
+            }            
         }
 
         [TestMethod]
         public void deveRetornarVerdadeiroParaModApenasDeTres()
         {
-            Assert.IsTrue(Program.Divisivel(3, 3));
+            Assert.IsTrue(Program.Divisivel(3,3));
             Assert.IsFalse(Program.Divisivel(3, 5));
         }
 
@@ -66,7 +64,7 @@ namespace FizzBuzzTest
         {
             var entrada = 21;
 
-            Assert.AreEqual(Program.ObterFizzBuzz(entrada), "FIZZ");
+            Assert.AreEqual(Program.ObterFizzBuzz(entrada),"FIZZ");
         }
         [TestMethod]
         public void deveRetornarBUZZParaModCinco()
@@ -78,9 +76,10 @@ namespace FizzBuzzTest
         [TestMethod]
         public void deveRetornarFIZZBUZZParaModCincoETres()
         {
-            //var entrada = 15;
+            var entrada = 15;
 
-            Assert.AreEqual("FIZZBUZZ", "FIZZBUZZ");
+            Assert.AreEqual(Program.ObterFizzBuzz(entrada), "FIZZBUZZ");
         }
+
     }
 }

@@ -1,7 +1,7 @@
-D:\Projetos-Testes-NET\teste-tdd\teste-tdd-test\obj\Debug\FizzBuzzTest.csprojResolveAssemblyReference.cache
-D:\Projetos-Testes-NET\teste-tdd\teste-tdd-test\obj\Debug\teste-tdd-test.dll
-D:\Projetos-Testes-NET\teste-tdd\teste-tdd-test\obj\Debug\teste-tdd-test.pdb
 D:\Projetos-Testes-NET\teste-tdd\teste-tdd-test\bin\Debug\teste-tdd-test.dll
 D:\Projetos-Testes-NET\teste-tdd\teste-tdd-test\bin\Debug\teste-tdd-test.pdb
 D:\Projetos-Testes-NET\teste-tdd\teste-tdd-test\bin\Debug\teste-tdd.exe
 D:\Projetos-Testes-NET\teste-tdd\teste-tdd-test\bin\Debug\teste-tdd.pdb
+D:\Projetos-Testes-NET\teste-tdd\teste-tdd-test\obj\Debug\teste-tdd-test.csprojResolveAssemblyReference.cache
+D:\Projetos-Testes-NET\teste-tdd\teste-tdd-test\obj\Debug\teste-tdd-test.dll
+D:\Projetos-Testes-NET\teste-tdd\teste-tdd-test\obj\Debug\teste-tdd-test.pdb

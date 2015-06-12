@@ -1,0 +1,6 @@
+D:\Projetos-Testes-NET\teste-tdd\teste-tdd\bin\Debug\teste-tdd.exe.config
+D:\Projetos-Testes-NET\teste-tdd\teste-tdd\bin\Debug\teste-tdd.exe
+D:\Projetos-Testes-NET\teste-tdd\teste-tdd\bin\Debug\teste-tdd.pdb
+D:\Projetos-Testes-NET\teste-tdd\teste-tdd\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+D:\Projetos-Testes-NET\teste-tdd\teste-tdd\obj\Debug\teste-tdd.exe
+D:\Projetos-Testes-NET\teste-tdd\teste-tdd\obj\Debug\teste-tdd.pdb

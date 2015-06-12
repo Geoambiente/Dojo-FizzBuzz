@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EC1FE963-DF92-45BA-B975-24BB2D773D82}</ProjectGuid>
+    <ProjectGuid>{1EC589F3-ACA5-4196-A1EF-6467B0B83E94}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FizzBuzzTest</RootNamespace>
-    <AssemblyName>FizzBuzzTest</AssemblyName>
+    <RootNamespace>teste_tdd_test</RootNamespace>
+    <AssemblyName>teste-tdd-test</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Dojo-FizzBuzz\Dojo-FizzBuzz.csproj">
-      <Project>{557f20c8-76c7-4e4c-913a-aa11509dcfdb}</Project>
-      <Name>Dojo-FizzBuzz</Name>
+    <ProjectReference Include="..\teste-tdd\FizzBuzz.csproj">
+      <Project>{9f2d7eed-f6a9-4d6e-8101-4866de2191bd}</Project>
+      <Name>FizzBuzz</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
